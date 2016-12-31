@@ -1,2 +1,2 @@
-# hell0-world
-First repository 
+# hello-world
+This is my first github repository. I've recent bought a Raspberry Pi 3 and plan to keep initial setup, config and progress notes in a repository. For example, how I formatted a new 64GB microSD card in the required MS-DOS FAT32 format or how I got audio to pipe thru the HDMI, or how I configured my pi to connect to my home WiFi, etc. Another repository may track a PYTHON programming project I develop on the pi or using PyCharm.
